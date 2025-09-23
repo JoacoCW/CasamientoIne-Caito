@@ -1,0 +1,76 @@
+body {
+  background-color: #87907c;
+  margin: 0;
+  padding: 0;
+}
+
+.icon {
+  text-align: center;
+}
+
+span {
+  margin-top: 50px;
+  font-size: 64px !important;
+  color: #e5e3d9;
+}
+
+h2 {
+  font-family: "Noto sans";
+  color: #ffffff;
+  text-align: center;
+}
+
+h5 {
+  font-family: "Noto sans";
+  color: #ffffff;
+  text-align: center;
+}
+
+p {
+  font-family: "Noto sans";
+  text-align: center;
+  color: #ffffff;
+  text-decoration: none;
+  margin: 50px 65px 15px 65px;
+}
+
+a {
+  color: inherit;
+  text-decoration: inherit;
+}
+
+.home {
+  margin-top: 200px !important;
+}
+
+section {
+  background-color: #e5e3d9;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 16px;
+  width: 100%;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.gift_card {
+  width: 30%;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+img {
+  width: 120px;
+}
+
+.name,
+.price {
+  margin: 0 !important;
+  color: #879087 !important;
+  font-weight: 600;
+  font-family: "Noto sans";
+}
