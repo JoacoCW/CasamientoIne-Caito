@@ -74,3 +74,7 @@ img {
   font-weight: 600;
   font-family: "Noto sans";
 }
+
+iframe {
+  border-radius: 12px;
+}
