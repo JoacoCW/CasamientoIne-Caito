@@ -6,6 +6,7 @@ body {
 
 .icon {
   text-align: center;
+  margin-top: 70px;
 }
 
 span {
@@ -15,23 +16,61 @@ span {
 }
 
 h2 {
-  font-family: "Noto sans";
+  font-family: "Roboto";
   color: #ffffff;
   text-align: center;
+  font-weight: 500;
+  letter-spacing: 2px;
+  margin-bottom: 10px;
+}
+
+h3 {
+  font-family: "Roboto";
+  color: #ffffff;
+  text-align: center;
+  margin-top: 90px;
+  margin-bottom: 20px;
+  font-size: 48px;
+  font-weight: 300;
+  letter-spacing: 2px;
+}
+
+h4 {
+  font-family: "Roboto";
+  color: #ffffff;
+  text-align: center;
+  font-weight: 400;
+  letter-spacing: 3px;
+  margin-bottom: 10px;
+  margin-top: 40px;
 }
 
 h5 {
-  font-family: "Noto sans";
+  font-family: "Roboto";
   color: #ffffff;
   text-align: center;
+  font-weight: 400;
+  letter-spacing: 2px;
+  margin-top: 0px;
+  font-size: 16px;
+}
+
+h6 {
+  font-family: "Roboto";
+  color: #ffffff;
+  text-align: center;
+  font-weight: 400;
+  letter-spacing: 2px;
+  margin-top: 40px;
+  font-size: 20px;
 }
 
 p {
-  font-family: "Noto sans";
+  font-family: "Roboto";
   text-align: center;
   color: #ffffff;
   text-decoration: none;
-  margin: 50px 65px 15px 65px;
+  margin: 40px 65px 40px 65px;
 }
 
 a {
@@ -40,7 +79,19 @@ a {
 }
 
 .home {
-  margin-top: 200px !important;
+  margin-top: 100px !important;
+  letter-spacing: 2px;
+  font-family: "Roboto";
+  font-weight: 200;
+  font-size: 16px;
+}
+
+.home_regalo {
+  margin-top: 40px !important;
+  letter-spacing: 2px;
+  font-family: "Roboto";
+  font-weight: 200;
+  font-size: 16px;
 }
 
 section {
@@ -50,8 +101,8 @@ section {
   justify-content: center;
   gap: 16px;
   width: 100%;
-  padding-top: 10px;
-  padding-bottom: 10px;
+  padding-top: 40px;
+  padding-bottom: 40px;
 }
 
 .gift_card {

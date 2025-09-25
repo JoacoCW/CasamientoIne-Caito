@@ -8,7 +8,8 @@ h1 {
   color: #585d51;
   font-family: "Times New Roman", Times, serif;
   text-align: center;
-  margin-top: 60px;
+  margin-top: 90px;
+  margin-bottom: 20px;
   font-size: 48px;
 }
 
@@ -21,15 +22,16 @@ h1 {
 
 a {
   color: #585d51;
-  font-family: "Graphik";
-  border: 1px #585d51 solid;
+  font-family: "Roboto";
+  border: 1.5px #585d51 solid;
   border-radius: 9px;
   text-align: center;
-  width: 50%;
-  padding: 7px 0px 7px 0px;
+  width: 60%;
+  padding: 10px 0px 10px 0px;
   margin-top: 12px;
   text-decoration: none;
   font-weight: 500;
+  letter-spacing: 2px;
 }
 
 a:hover {
