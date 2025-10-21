@@ -6,11 +6,12 @@ body {
 
 h1 {
   color: #ffffff;
-  font-family: "Times New Roman", Times, serif;
+  font-family: "Merriweather", serif;
   text-align: center;
   margin-top: 70px;
   margin-bottom: 20px;
   font-size: 48px;
+  font-weight: 500;
 }
 
 .container {
@@ -26,7 +27,7 @@ a {
   border: 1.5px #ffffff solid;
   border-radius: 9px;
   text-align: center;
-  width: 60%;
+  width: 52%;
   padding: 10px 0px 10px 0px;
   margin-top: 12px;
   text-decoration: none;
