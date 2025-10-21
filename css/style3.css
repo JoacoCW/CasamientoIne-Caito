@@ -8,9 +8,9 @@ h1 {
   color: #ffffff;
   font-family: "Merriweather", serif;
   text-align: center;
-  margin-top: 70px;
+  margin-top: 55px;
   margin-bottom: 20px;
-  font-size: 48px;
+  font-size: 46px;
   font-weight: 500;
 }
 
@@ -28,11 +28,12 @@ a {
   border-radius: 9px;
   text-align: center;
   width: 52%;
-  padding: 10px 0px 10px 0px;
+  padding: 8px 0px 8px 0px;
   margin-top: 12px;
   text-decoration: none;
   font-weight: 300;
   letter-spacing: 2px;
+  font-size: 14px;
 }
 
 a:hover {
