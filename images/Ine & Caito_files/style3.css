@@ -31,14 +31,14 @@ a {
   padding: 10px 0px 10px 0px;
   margin-top: 12px;
   text-decoration: none;
-  font-weight: 300;
+  font-weight: 500;
   letter-spacing: 2px;
 }
 
 a:hover {
   color: #828282;
-  background: #ffffff;
-  border: 1px solid #ffffff;
+  background: #585d51;
+  border: 1px solid #585d51;
 }
 
 h2 {
@@ -51,34 +51,4 @@ h5 {
 
 span {
   color: #e5e3d9;
-}
-
-@media screen and (min-width: 768px) {
-  body {
-    background-image: url("../images/background_desktop.jpeg");
-    background-repeat: no-repeat;
-    background-size: cover;
-  }
-
-  .spacer {
-    margin-bottom: 75vh;
-  }
-
-  .container {
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    align-content: center;
-    column-gap: 30px;
-    justify-content: center;
-  }
-
-  h1 {
-    font-size: 82px;
-  }
-
-  a {
-    width: 10%;
-    font-size: 24px;
-  }
 }

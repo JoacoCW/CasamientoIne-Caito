@@ -116,6 +116,7 @@ img {
 iframe {
   border-radius: 12px;
   margin-top: 20px;
+  height: 300px;
 }
 
 .alias {
@@ -131,4 +132,21 @@ iframe {
   bottom: 20px;
   justify-self: center;
   place-self: center;
+}
+
+@media screen and (min-width: 768px) {
+  iframe {
+    height: 700px;
+  }
+
+  h6 {
+    font-size: 28px;
+    margin-top: 60px;
+  }
+
+  p {
+    font-size: 32px;
+    width: 500px;
+    justify-self: center;
+  }
 }
