@@ -165,6 +165,19 @@ iframe {
   border: none;
 }
 
+.location_button {
+  border: none;
+  font-family: inherit;
+  color: inherit;
+  font-weight: inherit;
+  font-size: inherit;
+  letter-spacing: inherit;
+  padding: inherit;
+  border-radius: inherit;
+  text-align: unset;
+  margin: unset;
+}
+
 @media screen and (min-width: 768px) {
   iframe {
     height: 500px;
